@@ -14,3 +14,6 @@
 ```sh
 /usr/local/bin/node
 ```
+额外补充node包管理工具n：
+- 命令`n`查看node的版本情况
+- `n rm 10.7.2` 删除指定node版本
